@@ -4,18 +4,14 @@
   <h2 align="center">Streaming-Data-Management-and-Time-Series-Analysis</h2>
 <p align="center">
   <a href="#overview">Overview &nbsp;</a> |
-  <a href="#references">&nbsp; References &nbsp;</a> |
   <a href="#data">&nbsp; Data &nbsp;</a> |
   <a href="#presentation">&nbsp; Presentation &nbsp;</a> |
-  <a href="#aboutus">&nbsp; About us &nbsp;</a>
+  <a href="#aboutme">&nbsp; About us &nbsp;</a>
 </p>
 
 <a name="overview"></a>
 ## &#9741; &nbsp; Overview
 Just a start repository for the Streaming-Data-Management-and-Time-Series-Analysis course.
-
-<br>
-
 
 <a name="data"></a>
 ## &#9741; &nbsp; Data
