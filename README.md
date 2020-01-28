@@ -6,7 +6,7 @@
   <a href="#overview">Overview &nbsp;</a> |
   <a href="#data">&nbsp; Data &nbsp;</a> |
   <a href="#presentation">&nbsp; Presentation &nbsp;</a> |
-  <a href="#aboutme">&nbsp; About us &nbsp;</a>
+  <a href="#aboutme">&nbsp; About me &nbsp;</a>
 </p>
 
 <a name="overview"></a>
