@@ -19,7 +19,7 @@ All the data used for this project are available in the <a href="https://fakelin
 
 <a name="presentation"></a>
 ## &#9741; &nbsp; Presentation
-Our slides presentation is available in the <a href="https://fakelink">slides</a> folder. 
+Our slides presentation is available in the <a href="https://github.com/maxi93/SDMTSA/blob/master/SDMTSA%20Presentation.pdf">slides</a> folder. 
 
 <a name="aboutme"></a>
 ## &#9741; &nbsp; About me
