@@ -4,7 +4,7 @@
   <h2 align="center">Streaming-Data-Management-and-Time-Series-Analysis</h2>
 <p align="center">
   <a href="#overview">Overview &nbsp;</a> |
-  <a href="#data">&nbsp; Data &nbsp;</a> |
+  <a href="#code">&nbsp; Code &nbsp;</a> |
   <a href="#presentation">&nbsp; Presentation &nbsp;</a> |
   <a href="#aboutme">&nbsp; About me &nbsp;</a>
 </p>
@@ -13,9 +13,9 @@
 ## &#9741; &nbsp; Overview
 Just a start repository for the Streaming-Data-Management-and-Time-Series-Analysis course.
 
-<a name="data"></a>
-## &#9741; &nbsp; Data
-All the data used for this project are available in the <a href="https://fakelink">data</a> folder and <a href="https://www.fakesite">here</a>
+<a name="code"></a>
+## &#9741; &nbsp; Code
+Code used for this project are available in the <a href="https://github.com/maxi93/SDMTSA/blob/master/SDMTSA_847548.ipynb">code file</a>.
 
 <a name="presentation"></a>
 ## &#9741; &nbsp; Presentation
